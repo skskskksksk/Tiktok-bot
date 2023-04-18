@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import Select
 import pyfiglet
 from time import sleep
 from os import system
-vidUrl = input("Video Link: ")
+vidUrl = input("https://vt.tiktok.com/ZS873pkND/: ")
 def loop1():
     global i
     sleep(30)
